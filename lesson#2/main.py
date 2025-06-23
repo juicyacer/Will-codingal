@@ -1,0 +1,7 @@
+print(" welcome to code chat !")
+name = input("whats your name")
+print( f"nice to meet you {name}")
+age = input(" what is your age")
+print(f"oh cool {name} is {age} years old")
+print("hello" , end=" ")
+print("will \nmy in game name is juicyacer")
