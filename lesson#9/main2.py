@@ -17,5 +17,4 @@
 while True:
     print("\nhello")
     print("my name is ")
-    print("will")
-    
+    print("will")    
